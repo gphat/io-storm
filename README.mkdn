@@ -2,6 +2,10 @@
 
 IO::Storm - Perl support for Twitter's Storm
 
+# DEPRECATED
+
+Please use [Dan Blanchard's Fork](https://github.com/dan-blanchard/io-storm) instead!
+
 # VERSION
 
 version 0.01
